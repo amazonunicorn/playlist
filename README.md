@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/itscodenation/playlist) 
+
 # Playlist Project
 
 ### Gitpod Preview in Browser: python3 -m http.server 3000
@@ -17,9 +19,9 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [ ] Submit your website using the link on the Agenda
 
 ### HTML/JavaScript
-- [ ] Create a div to display your songs
-- [ ] Create an array to store your song names
-- [ ] Create a loop to display your song names
+- [x] Create a div to display your songs
+- [x] Create an array to store your song names
+- [x] Create a loop to display your song names
 - [ ] Repeat these steps for song artist, song length, image, and link
 
 #### Wrap
